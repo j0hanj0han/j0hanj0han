@@ -1,7 +1,7 @@
 # Hi I'm Johan :bear:
 
 ```python
-skills = [python, vuejs, linux, grafana, raspberry]
+skills = [python, kube, jenkins, grafana]
 while True: 
   for skill in skills: 
     skills +=1
